@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "title": "PMP Plan: Mid-February 2027",
+  "lead": "Sit the PMP between Feb 16 and 19, 2027. The travel months carry the 35-hour course and the application at 4 to 5 hours a week; January and early February carry practice exams at 8 to 10 hours a week.",
+  "exam": {
+    "start": "2027-02-16",
+    "end": "2027-02-19"
+  },
+  "phases": [
+    {
+      "id": "p1",
+      "name": "35-hour course",
+      "start": "2026-10-08",
+      "end": "2026-12-09",
+      "highlight": false
+    },
+    {
+      "id": "p2",
+      "name": "Worksheet and summaries",
+      "start": "2026-10-12",
+      "end": "2026-12-11",
+      "highlight": false
+    },
+    {
+      "id": "p3",
+      "name": "Application submitted",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "highlight": false
+    },
+    {
+      "id": "p4",
+      "name": "Exam paid and booked",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "highlight": false
+    },
+    {
+      "id": "p5",
+      "name": "Holiday buffer",
+      "start": "2026-12-21",
+      "end": "2027-01-03",
+      "highlight": false
+    },
+    {
+      "id": "p6",
+      "name": "Practice exams and drills",
+      "start": "2027-01-04",
+      "end": "2027-02-12",
+      "highlight": false
+    },
+    {
+      "id": "p7",
+      "name": "Exam window",
+      "start": "2027-02-16",
+      "end": "2027-02-19",
+      "highlight": true
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w01",
+      "weekOf": "2026-10-08",
+      "hours": "2",
+      "courseHours": "0",
+      "tasks": "Join PMI. Buy a self-paced 35-hour course. Download the 2026 Exam Content Outline. Check your UC transcript for project management coursework.",
+      "status": "Done"
+    },
+    {
+      "id": "w02",
+      "weekOf": "2026-10-12",
+      "hours": "4 to 5",
+      "courseHours": "4",
+      "tasks": "Worksheet: list every candidate project with start and end months.",
+      "status": "Not started"
+    },
+    {
+      "id": "w03",
+      "weekOf": "2026-10-19",
+      "hours": "4 to 5",
+      "courseHours": "8",
+      "tasks": "Pick projects that cover 36+ non-overlapping months. Name a verifier for each.",
+      "status": "Not started"
+    },
+    {
+      "id": "w04",
+      "weekOf": "2026-10-26",
+      "hours": "4 to 5",
+      "courseHours": "12",
+      "tasks": "Give each verifier a heads-up. Confirm they can sign in December or January if you are audited.",
+      "status": "Not started"
+    },
+    {
+      "id": "w05",
+      "weekOf": "2026-11-02",
+      "hours": "4 to 5",
+      "courseHours": "16",
+      "tasks": "Draft role summary 1.",
+      "status": "Not started"
+    },
+    {
+      "id": "w06",
+      "weekOf": "2026-11-09",
+      "hours": "4 to 5",
+      "courseHours": "20",
+      "tasks": "Draft role summary 2.",
+      "status": "Not started"
+    },
+    {
+      "id": "w07",
+      "weekOf": "2026-11-16",
+      "hours": "4 to 5",
+      "courseHours": "24",
+      "tasks": "Draft the remaining role summaries.",
+      "status": "Not started"
+    },
+    {
+      "id": "w08",
+      "weekOf": "2026-11-23",
+      "hours": "2 to 3",
+      "courseHours": "27",
+      "tasks": "Thanksgiving week: course only.",
+      "status": "Not started"
+    },
+    {
+      "id": "w09",
+      "weekOf": "2026-11-30",
+      "hours": "4 to 5",
+      "courseHours": "31",
+      "tasks": "Edit the summaries. Start the PMI online application and enter your projects.",
+      "status": "Not started"
+    },
+    {
+      "id": "w10",
+      "weekOf": "2026-12-07",
+      "hours": "4 to 5",
+      "courseHours": "35",
+      "tasks": "Finish the course and save the completion certificate. Submit the application by Fri Dec 11.",
+      "status": "Not started"
+    },
+    {
+      "id": "w11",
+      "weekOf": "2026-12-14",
+      "hours": "3",
+      "courseHours": "Done",
+      "tasks": "PMI review, about 5 business days. If approved: pay the member exam fee and book Feb 16 to 19. If audited: send the audit package this week. Skim the ECO tasks.",
+      "status": "Not started"
+    },
+    {
+      "id": "w12",
+      "weekOf": "2026-12-21",
+      "hours": "0 to 3",
+      "courseHours": "Done",
+      "tasks": "Holiday buffer: catch up on anything that slipped, or rest.",
+      "status": "Not started"
+    },
+    {
+      "id": "w13",
+      "weekOf": "2026-12-28",
+      "hours": "0 to 3",
+      "courseHours": "Done",
+      "tasks": "Holiday buffer.",
+      "status": "Not started"
+    },
+    {
+      "id": "w14",
+      "weekOf": "2027-01-04",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "Full-length timed practice exam (240 minutes) as a baseline. Review every miss.",
+      "status": "Not started"
+    },
+    {
+      "id": "w15",
+      "weekOf": "2027-01-11",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "Business Environment (26% of the exam): practice sets and review.",
+      "status": "Not started"
+    },
+    {
+      "id": "w16",
+      "weekOf": "2027-01-18",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "People (33%): practice sets, agile and hybrid scenarios.",
+      "status": "Not started"
+    },
+    {
+      "id": "w17",
+      "weekOf": "2027-01-25",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "Process (41%): practice sets, case-study items.",
+      "status": "Not started"
+    },
+    {
+      "id": "w18",
+      "weekOf": "2027-02-01",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "Full-length practice exam 2. Drill your weakest domain.",
+      "status": "Not started"
+    },
+    {
+      "id": "w19",
+      "weekOf": "2027-02-08",
+      "hours": "8 to 10",
+      "courseHours": "Done",
+      "tasks": "Full-length practice exam 3 by Wed Feb 10, then review. Check exam logistics: ID, test center route or online system check.",
+      "status": "Not started"
+    },
+    {
+      "id": "w20",
+      "weekOf": "2027-02-15",
+      "hours": "2 to 3",
+      "courseHours": "Done",
+      "tasks": "Light review only. Exam day Feb 16 to 19.",
+      "status": "Not started"
+    }
+  ],
+  "weeksNote": "Total: about 100 hours. Course hours are hours of content finished; at 1.25x playback the course takes about 28 hours of your time.",
+  "deadlines": [
+    {
+      "id": "d1",
+      "milestone": "Verifiers confirmed",
+      "target": "2026-10-30",
+      "latestSafe": "2026-11-20",
+      "why": "An audit needs a signed verification from a supervisor or sponsor for each project. Holiday travel slows signatures.",
+      "done": false
+    },
+    {
+      "id": "d2",
+      "milestone": "35-hour course complete",
+      "target": "2026-12-09",
+      "latestSafe": "2026-12-16",
+      "why": "The application cannot be submitted without completed hours.",
+      "done": false
+    },
+    {
+      "id": "d3",
+      "milestone": "Application submitted",
+      "target": "2026-12-11",
+      "latestSafe": "2026-12-18",
+      "why": "Review takes about 5 business days. An audit adds however long the signatures take.",
+      "done": false
+    },
+    {
+      "id": "d4",
+      "milestone": "Exam paid and booked",
+      "target": "2026-12-18",
+      "latestSafe": "2027-01-15",
+      "why": "Payment opens a one-year window. Booking early locks a Feb 16 to 19 slot.",
+      "done": false
+    },
+    {
+      "id": "d5",
+      "milestone": "Practice exam 3 done",
+      "target": "2027-02-10",
+      "latestSafe": "2027-02-12",
+      "why": "Leaves days to review misses before the real exam.",
+      "done": false
+    },
+    {
+      "id": "d6",
+      "milestone": "Exam",
+      "target": "2027-02-16",
+      "latestSafe": "2027-02-26",
+      "why": "Feb 16 to 19 is the target; one week of slip keeps you in February.",
+      "done": false
+    }
+  ],
+  "deadlineNotes": [
+    {
+      "id": "n1",
+      "text": "Set up your PMI account with your name exactly as it appears on the ID you will bring to the exam."
+    },
+    {
+      "id": "n2",
+      "text": "The December 1 training rule only affects live classes from providers that are not PMI-authorized. A self-paced course is unaffected."
+    }
+  ],
+  "worksheet": {
+    "intro": "List projects whose combined, non-overlapping months reach 36 or more within the past 10 years. Submitting in December 2026 means experience back to December 2016 counts.",
+    "rules": [
+      {
+        "id": "r1",
+        "text": "Each entry on the current form asks for organization, job title, start and end dates, and a role summary of 100 to 500 words."
+      },
+      {
+        "id": "r2",
+        "text": "Dates are the period you led that project, not your full time at the company."
+      },
+      {
+        "id": "r3",
+        "text": "Overlapping months count once. Where periods overlap, report the longest project."
+      },
+      {
+        "id": "r4",
+        "text": "The job title does not need to say Project Manager. The summary must show you led the work."
+      }
+    ],
+    "projects": [
+      {
+        "id": "pr1",
+        "organization": "",
+        "jobTitle": "",
+        "start": "",
+        "end": "",
+        "verifier": "",
+        "verifierConfirmed": false,
+        "summaryDrafted": false,
+        "summary": ""
+      },
+      {
+        "id": "pr2",
+        "organization": "",
+        "jobTitle": "",
+        "start": "",
+        "end": "",
+        "verifier": "",
+        "verifierConfirmed": false,
+        "summaryDrafted": false,
+        "summary": ""
+      },
+      {
+        "id": "pr3",
+        "organization": "",
+        "jobTitle": "",
+        "start": "",
+        "end": "",
+        "verifier": "",
+        "verifierConfirmed": false,
+        "summaryDrafted": false,
+        "summary": ""
+      }
+    ]
+  },
+  "template": {
+    "intro": "Aim for 200 to 350 words per entry. Cover three parts, in your own words, with numbers where you have them.",
+    "parts": [
+      {
+        "id": "t1",
+        "title": "Role",
+        "body": "As [job title] at [organization], I led [project] to [objective]. I was accountable for [scope, schedule, budget, team size, key stakeholders]."
+      },
+      {
+        "id": "t2",
+        "title": "Contributions",
+        "body": "What you personally led across the exam's three domains.\nPeople: how you directed the team and managed stakeholders and conflicts.\nProcess: how you planned, tracked and controlled scope, schedule, risk, changes and quality.\nBusiness environment: how you kept the work tied to business goals, value and compliance."
+      },
+      {
+        "id": "t3",
+        "title": "Outcomes",
+        "body": "What the project delivered, whether it met scope, schedule and budget, and the measurable benefit to the client or organization. For an ongoing project, results so far."
+      }
+    ],
+    "closing": "Every claim should be one your verifier would sign as written."
+  },
+  "audit": {
+    "intro": "Audits are random. PMI allows 90 days to respond, but sending the package within a week keeps February intact. Have these ready before you submit.",
+    "items": [
+      {
+        "id": "a1",
+        "text": "Copy of your degree (bachelor's or higher)",
+        "done": false
+      },
+      {
+        "id": "a2",
+        "text": "35-hour course completion certificate",
+        "done": false
+      },
+      {
+        "id": "a3",
+        "text": "Signed experience verification from a supervisor or sponsor for each project listed",
+        "done": false
+      },
+      {
+        "id": "a4",
+        "text": "Current contact details for every verifier, including where they will be in December",
+        "done": false
+      }
+    ]
+  },
+  "savedAt": "2026-10-12T00:58:11.156Z"
+}
